@@ -3901,7 +3901,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", ({ value: true }));
-import './style.css';
 const colors_1 = __webpack_require__(/*! ./constants/colors */ "./src/constants/colors.ts");
 const buttons_1 = __webpack_require__(/*! ./helpers/buttons */ "./src/helpers/buttons.ts");
 const index_1 = __importDefault(__webpack_require__(/*! ./global-instances/p5/index */ "./src/global-instances/p5/index.ts"));
